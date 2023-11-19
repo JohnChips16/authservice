@@ -1,0 +1,1 @@
+cmd_Release/obj.target/hash.node := aarch64-linux-android-clang++ -o Release/obj.target/hash.node -shared -rdynamic -fPIC  -Wl,-soname=hash.node -Wl,--start-group Release/obj.target/hash/c++/crypto/sha512Hasher.o -Wl,--end-group -llog
