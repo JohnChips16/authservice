@@ -1,0 +1,1 @@
+cmd_Release/obj.target/random.node := aarch64-linux-android-clang++ -o Release/obj.target/random.node -shared -rdynamic -fPIC  -Wl,-soname=random.node -Wl,--start-group Release/obj.target/random/c++/crypto/randomGenerate.o -Wl,--end-group -llog
