@@ -2,6 +2,8 @@
 
 this project is intended in order to learn different RPC and technologies communicating.
 
+Node.js, native code, RPCs, Redis cache, JWT, decentralized database.
+
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine.
